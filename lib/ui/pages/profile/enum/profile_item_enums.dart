@@ -1,0 +1,1 @@
+enum ProfileItem { logOut, help }

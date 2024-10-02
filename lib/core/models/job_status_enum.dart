@@ -1,0 +1,6 @@
+
+
+
+enum JobStatus { SCHEDULED, COMPLETED }
+
+

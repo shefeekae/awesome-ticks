@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "954510833269",
+    "project_id": "awesometicks-e98c9",
+    "storage_bucket": "awesometicks-e98c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954510833269:android:5cb65ccfaf9e0eb87f2a3c",
+        "android_client_info": {
+          "package_name": "com.nectar.Tenex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954510833269-4drlsna87t3dmi16k9b1l9k4jcp2vnb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLVAVX-BsBdDL_OCnHmCuMGydV49U7O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954510833269-4drlsna87t3dmi16k9b1l9k4jcp2vnb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954510833269-43tketu28h6hql3ut58bge382m1u3hd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectar.awesometicks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954510833269:android:a495df99fb3ea05d7f2a3c",
+        "android_client_info": {
+          "package_name": "com.nectar.awesometicks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954510833269-4drlsna87t3dmi16k9b1l9k4jcp2vnb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLVAVX-BsBdDL_OCnHmCuMGydV49U7O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954510833269-4drlsna87t3dmi16k9b1l9k4jcp2vnb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954510833269-43tketu28h6hql3ut58bge382m1u3hd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectar.awesometicks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
